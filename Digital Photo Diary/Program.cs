@@ -18,6 +18,7 @@ namespace Digital_Photo_Diary
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Application.Run(new Digital_Photo_Diary());
         }
     }
 }
