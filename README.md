@@ -1,2 +1,2 @@
-# Digital-Photo-Diary
+Digital Photo Diary
  
